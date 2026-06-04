@@ -1,3 +1,4 @@
 # 忽略 IDEA 配置目录
 .idea/
 *.iml
+*.csv
